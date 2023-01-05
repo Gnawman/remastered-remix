@@ -261,9 +261,6 @@ class State_16(State):
 
     def test(self):
         return State_5
-        # UNREACHABLE:
-        # if GetDistanceToPlayer() >= 3:
-        #     return State_18
 
 
 class State_17(State):
@@ -305,7 +302,7 @@ class State_18(State):
     """ 18: No description. """
 
     def previous_states(self):
-        return [State_6, State_10, State_16, State_19, State_20, State_21, State_24, State_25, State_29, State_30, State_36, State_43, State_54, State_56, State_58, State_59, State_65, State_68, State_71, State_72, State_76]
+        return [State_6, State_10, State_19, State_20, State_21, State_24, State_29, State_30, State_36, State_43, State_54, State_56, State_58, State_59, State_65, State_68, State_71, State_72, State_76]
 
     def enter(self):
         DebugEvent(message='待機')
@@ -445,9 +442,6 @@ class State_25(State):
 
     def test(self):
         return State_5
-        # UNREACHABLE:
-        # if GetDistanceToPlayer() >= 3:
-        #     return State_18
 
 
 class State_26(State):

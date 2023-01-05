@@ -12,7 +12,7 @@ class State_1(State):
     """ 1: No description. """
 
     def previous_states(self):
-        return [State_2, State_3, State_15, State_24, State_26, State_31, State_39, State_41]
+        return [State_2, State_3, State_15, State_24, State_26, State_31, State_39]
 
     def enter(self):
         DebugEvent(message='待機')
@@ -748,9 +748,6 @@ class State_41(State):
 
     def test(self):
         return State_4
-        # UNREACHABLE:
-        # if GetDistanceToPlayer() >= 8 or HasPlayerBeenAttacked() == 1 or IsTalkingToSomeoneElse() or CheckSelfDeath() or IsCharacterDisabled() or IsClientPlayer() == 1 or GetRelativeAngleBetweenPlayerAndSelf() > 120 or GetDistanceToPlayer() > 8:
-        #     return State_1
 
 
 class State_42(State):

@@ -694,7 +694,7 @@ def Event11405250(_, arg_0_3: int):
 @RestartOnRest(11405300)
 def Event11405300():
     """Event 11405300"""
-    RunEvent(11405301, slot=0, args=(1400500, 1, 0, 3290, 3290), arg_types="ihhii")
+    RunEvent(11405301, slot=0, args=(1400500, 1, 0, 0, 3290), arg_types="ihhii")
     RunEvent(11405310, slot=0, args=(1400500, 11405301, 0, 0), arg_types="iiBB")
     RunEvent(11405310, slot=1, args=(1400500, 11405301, 2, 0), arg_types="iiBB")
     RunEvent(
@@ -711,7 +711,7 @@ def Event11405300():
     )
     RunEvent(11405330, slot=0, args=(1400500, 11405301, 1400600, 1400601, 120, 123))
     RunEvent(11405330, slot=1, args=(1400500, 11405301, 1400602, 1400603, 126, 129))
-    RunEvent(11405301, slot=1, args=(1400500, 2, 0, 3291, 3291), arg_types="ihhii")
+    RunEvent(11405301, slot=1, args=(1400500, 2, 0, 0, 3291), arg_types="ihhii")
     RunEvent(11405310, slot=2, args=(1400500, 11405302, 5, 0), arg_types="iiBB")
     RunEvent(
         11405320,
@@ -721,7 +721,7 @@ def Event11405300():
     )
     RunEvent(11405330, slot=2, args=(1400500, 11405302, 1400604, 1400605, 135, 137))
     RunEvent(11405330, slot=3, args=(1400500, 11405302, 1400606, 1400607, 153, 155))
-    RunEvent(11405301, slot=2, args=(1400500, 3, 0, 3292, 3292), arg_types="ihhii")
+    RunEvent(11405301, slot=2, args=(1400500, 3, 0, 0, 3292), arg_types="ihhii")
     RunEvent(11405310, slot=3, args=(1400500, 11405303, 6, 0), arg_types="iiBB")
     RunEvent(11405310, slot=4, args=(1400500, 11405303, 8, 0), arg_types="iiBB")
     RunEvent(
@@ -738,7 +738,7 @@ def Event11405300():
     )
     RunEvent(11405330, slot=4, args=(1400500, 11405303, 1400608, 1400609, 138, 141))
     RunEvent(11405330, slot=5, args=(1400500, 11405303, 1400610, 1400611, 144, 150))
-    RunEvent(11405301, slot=3, args=(1400500, 4, 0, 3293, 3293), arg_types="ihhii")
+    RunEvent(11405301, slot=3, args=(1400500, 4, 0, 0, 3293), arg_types="ihhii")
     RunEvent(11405310, slot=5, args=(1400500, 11405304, 4, 0), arg_types="iiBB")
     RunEvent(
         11405320,

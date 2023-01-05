@@ -116,9 +116,6 @@ class State_7(State):
 
     def test(self):
         return State_4
-        # UNREACHABLE:
-        # if GetDistanceToPlayer() >= 12:
-        #     return State_11
 
 
 class State_8(State):
@@ -167,9 +164,6 @@ class State_10(State):
 
     def test(self):
         return State_4
-        # UNREACHABLE:
-        # if GetDistanceToPlayer() >= 12:
-        #     return State_11
 
     def exit(self):
         RemoveMyAggro()
@@ -179,7 +173,7 @@ class State_11(State):
     """ 11: No description. """
 
     def previous_states(self):
-        return [State_4, State_5, State_7, State_10, State_12, State_14, State_20, State_22, State_29, State_31, State_34, State_35]
+        return [State_4, State_5, State_12, State_14, State_20, State_22, State_29, State_31, State_34, State_35]
 
     def enter(self):
         SetFlagState(flag=11315020, state=0)

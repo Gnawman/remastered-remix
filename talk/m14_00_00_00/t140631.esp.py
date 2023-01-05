@@ -77,7 +77,7 @@ class State_6(State):
     """ 6: No description. """
 
     def previous_states(self):
-        return [State_2, State_4, State_5, State_11, State_20, State_22, State_23, State_25, State_26, State_27, State_36, State_44, State_46, State_47, State_49, State_50, State_51, State_52, State_53, State_54, State_57]
+        return [State_2, State_4, State_5, State_11, State_20, State_23, State_26, State_27, State_36, State_44, State_46, State_47, State_49, State_50, State_51, State_52, State_53, State_54, State_57]
 
     def enter(self):
         DebugEvent(message='unknow')
@@ -365,9 +365,6 @@ class State_22(State):
 
     def test(self):
         return State_19
-        # UNREACHABLE:
-        # if GetDistanceToPlayer() >= 3:
-        #     return State_6
 
 
 class State_23(State):
@@ -421,9 +418,6 @@ class State_25(State):
 
     def test(self):
         return State_19
-        # UNREACHABLE:
-        # if GetDistanceToPlayer() >= 3:
-        #     return State_6
 
 
 class State_26(State):

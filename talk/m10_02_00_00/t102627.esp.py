@@ -812,9 +812,6 @@ class State_46(State):
 
     def test(self):
         return State_6
-        # UNREACHABLE:
-        # if 1:
-        #     return State_6
 
 
 class State_47(State):
@@ -1146,9 +1143,6 @@ class State_66(State):
 
     def test(self):
         return State_6
-        # UNREACHABLE:
-        # if 1:
-        #     return State_6
 
 
 class State_67(State):

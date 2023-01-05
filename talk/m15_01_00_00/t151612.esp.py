@@ -231,9 +231,6 @@ class State_13(State):
 
     def test(self):
         return State_9
-        # UNREACHABLE:
-        # if GetDistanceToPlayer() >= 18:
-        #     return State_20
 
 
 class State_14(State):
@@ -321,16 +318,13 @@ class State_19(State):
 
     def test(self):
         return State_9
-        # UNREACHABLE:
-        # if GetDistanceToPlayer() >= 18:
-        #     return State_20
 
 
 class State_20(State):
     """ 20: No description. """
 
     def previous_states(self):
-        return [State_2, State_8, State_9, State_10, State_13, State_19, State_23, State_29, State_33, State_40, State_42, State_43, State_46]
+        return [State_2, State_8, State_9, State_10, State_23, State_29, State_33, State_40, State_42, State_43, State_46]
 
     def enter(self):
         SetFlagState(flag=11515350, state=0)

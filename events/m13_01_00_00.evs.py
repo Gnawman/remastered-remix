@@ -543,24 +543,9 @@ def Event11315397():
     DisableCharacter(1310113)
     DisableCharacter(1310114)
     DisableCharacter(1310115)
-    RunEvent(
-        11315370,
-        slot=0,
-        args=(11315392, 2, 0, 5220, 5220, Objects.o3900_0000, 1310110, 1310113),
-        arg_types="ihhiiiii",
-    )
-    RunEvent(
-        11315370,
-        slot=1,
-        args=(11315370, 3, 0, 5221, 5221, Objects.o3901_0000, 1310111, 1310114),
-        arg_types="ihhiiiii",
-    )
-    RunEvent(
-        11315370,
-        slot=2,
-        args=(11315371, 4, 0, 5222, 5222, Objects.o3900_0001, 1310112, 1310115),
-        arg_types="ihhiiiii",
-    )
+    RunEvent(11315370, slot=0, args=(11315392, 2, 0, 0, 5220, 5220, Objects.o3900_0000, 1310110), arg_types="ihhiiiii")
+    RunEvent(11315370, slot=1, args=(11315370, 3, 0, 0, 5221, 5221, Objects.o3901_0000, 1310111), arg_types="ihhiiiii")
+    RunEvent(11315370, slot=2, args=(11315371, 4, 0, 0, 5222, 5222, Objects.o3900_0001, 1310112), arg_types="ihhiiiii")
     IfCharacterBackreadEnabled(0, Characters.c5220_0000)
     SetDisplayMask(Characters.c5220_0000, bit_index=0, switch_type=OnOffChange.On)
 

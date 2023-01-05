@@ -38,7 +38,7 @@ class State_3(State):
     """ 3: No description. """
 
     def previous_states(self):
-        return [State_8, State_12, State_21, State_22, State_24, State_26, State_28, State_30, State_32, State_34, State_36, State_38, State_40, State_41, State_44, State_45, State_46, State_47, State_48, State_49, State_50, State_52, State_53, State_54, State_55, State_56, State_60]
+        return [State_8, State_12, State_21, State_22, State_24, State_26, State_28, State_30, State_32, State_34, State_36, State_38, State_40, State_41, State_44, State_45, State_46, State_47, State_48, State_49, State_50, State_52, State_54, State_55, State_56, State_60]
 
     def enter(self):
         ClearTalkProgressData()
@@ -929,9 +929,6 @@ class State_53(State):
             return State_7
         else:
             return State_62
-        # UNREACHABLE:
-        # if IsTalkingToSomeoneElse() or CheckSelfDeath() or IsCharacterDisabled() or IsClientPlayer() == 1 or GetRelativeAngleBetweenPlayerAndSelf() > 120 or GetDistanceToPlayer() > 5:
-        #     return State_3
 
 
 class State_54(State):
