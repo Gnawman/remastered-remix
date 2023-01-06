@@ -31,9 +31,6 @@ def Constructor():
     DisableMapCollision(Collisions.h0550B1_0000)
     DisableFlag(11810315)
     DisableFlag(11810112)
-    DisableObjectActivation(Objects.o8540_0000, obj_act_id=-1)
-    DisableObjectActivation(Objects.o8540_0001, obj_act_id=-1)
-    DisableObjectActivation(Objects.o8540_0002, obj_act_id=-1)
     SkipLinesIfOutsideMap(4, game_map=UNDEAD_ASYLUM)
     SkipLinesIfFlagOn(3, 11810002)
     PlayCutscene(
