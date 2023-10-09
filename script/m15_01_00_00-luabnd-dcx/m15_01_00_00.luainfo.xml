@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<luainfo>
+  <filename>m15_01_00_00.luainfo</filename>
+  <bigendian>False</bigendian>
+  <longformat>False</longformat>
+  <goals>
+    <goal id="230000">
+      <name>HaikaiDemon230000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="236000">
+      <name>FourKnightC236000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="287000">
+      <name>GiantKnight287000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="352000">
+      <name>wyvern352000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="527000">
+      <name>Griffith527000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="11000">
+      <name>Nanimosinai11000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="532000">
+      <name>ImperialMother532000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="527100">
+      <name>Griffith_large527100Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="279000">
+      <name>BlackKnight_Sword279000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="349000">
+      <name>DriftItemGood349000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="349001">
+      <name>DriftItemGood349000Runaway</name>
+      <battleinterrupt>False</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="349002">
+      <name>DriftItemGood349000Hide</name>
+      <battleinterrupt>False</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="349100">
+      <name>DriftItemEvil349100Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="236001">
+      <name>FourKnightC_Thunder236001Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="535000">
+      <name>Gargoyle535000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="279001">
+      <name>BlackKnight_Lar_Sw279001Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="279002">
+      <name>BlackKnight_Ax279002Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="279003">
+      <name>BlackKnight_Spear279003Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="278000">
+      <name>Mimic278000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="256002">
+      <name>LightKnight_Rapier256002Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="286000">
+      <name>Giant286000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="240000">
+      <name>Assassin240000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="241000">
+      <name>WhiteKnight_Sword241000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="241001">
+      <name>WhiteKnight_Lar_Sw241001Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="241002">
+      <name>WhiteKnight_Ax241002Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="241003">
+      <name>WhiteKnight_Spear241003Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="286001">
+      <name>Giant_nt286001Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="535100">
+      <name>Gargoyle_m15_535100Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="240001">
+      <name>Assassin_shot240001Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="241004">
+      <name>WhiteKnight_Bow241004Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="226000">
+      <name>SpearDemon226000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="287001">
+      <name>GiantKnight_low287001Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="6300">
+      <name>HeldKnight_laughtrec6300Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="6390">
+      <name>Laughtrec_Helper6390Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="6420">
+      <name>Ninja6420Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="6540">
+      <name>SunKnight6540Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="6540">
+      <name>sunKnight6540_Logic</name>
+      <battleinterrupt>False</battleinterrupt>
+      <logicinterrupt>True</logicinterrupt>
+      <logicinterruptname>sunKnight6540_Interupt</logicinterruptname>
+    </goal>
+    <goal id="6020">
+      <name>Knight_Ostra6020Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="6000">
+      <name>Knight_of_Sun6000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="6010">
+      <name>DarkMoonKnight6010Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="6280">
+      <name>OnionKnight6280Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="6490">
+      <name>Attendant_of_laughtrecA6490Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="6640">
+      <name>DarkMoon_Juu6640Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="6650">
+      <name>DarkMoon_Kei6650Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="6500">
+      <name>Attendant_of_laughtrecB6500Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+  </goals>
+</luainfo>

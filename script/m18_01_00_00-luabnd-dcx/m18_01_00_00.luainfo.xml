@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<luainfo>
+  <filename>m18_01_00_00.luainfo</filename>
+  <bigendian>False</bigendian>
+  <longformat>False</longformat>
+  <goals>
+    <goal id="225000">
+      <name>Hammer_m10_225000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="225001">
+      <name>Hammer_m11_225001Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="250000">
+      <name>Husi250000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="250001">
+      <name>Husi_Torch250001Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="255000">
+      <name>HusiHeavy_Spear255000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="255003">
+      <name>HusiHeavy_Bow255003Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="223000">
+      <name>GreaterDemon223000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="250004">
+      <name>Husi250004Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="255001">
+      <name>HusiHeavy_Long255001Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="250005">
+      <name>Husi_Bow250005Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="223200">
+      <name>MiniGreaterDemon223200Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="6020">
+      <name>Knight_Ostra6020Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="349100">
+      <name>DriftItemEvil349100Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="349000">
+      <name>DriftItemGood349000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="349001">
+      <name>DriftItemGood349000Runaway</name>
+      <battleinterrupt>False</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="349002">
+      <name>DriftItemGood349000Hide</name>
+      <battleinterrupt>False</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="279000">
+      <name>BlackKnight_Sword279000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="279001">
+      <name>BlackKnight_Lar_Sw279001Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="279002">
+      <name>BlackKnight_Ax279002Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="279003">
+      <name>BlackKnight_Spear279003Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+  </goals>
+</luainfo>
