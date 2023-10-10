@@ -195,5 +195,55 @@
     <global>BlackKnight_Spear279003Battle_Update</global>
     <global>BlackKnight_Spear279003Battle_Terminate</global>
     <global>BlackKnight_Spear279003Battle_Interupt</global>
+    <global>WhiteKnight_Sword241000Battle_Activate</global>
+    <global>WhiteKnight_Sword241000_Act01</global>
+    <global>WhiteKnight_Sword241000_Act02</global>
+    <global>WhiteKnight_Sword241000_Act04</global>
+    <global>WhiteKnight_Sword241000_Act05</global>
+    <global>WhiteKnight_Sword241000_Act06</global>
+    <global>WhiteKnight_Sword241000_Act07</global>
+    <global>WhiteKnight_Sword241000_ActAfter_AdjustSpace</global>
+    <global>WhiteKnight_Sword241000Battle_Update</global>
+    <global>WhiteKnight_Sword241000Battle_Terminate</global>
+    <global>WhiteKnight_Sword241000Battle_Interupt</global>
+    <global>WhiteKnight_Lar_Sw241001Battle_Activate</global>
+    <global>WhiteKnight_Lar_Sw241001_Act02</global>
+    <global>WhiteKnight_Lar_Sw241001_Act05</global>
+    <global>WhiteKnight_Lar_Sw241001_Act06</global>
+    <global>WhiteKnight_Lar_Sw241001_ActAfter_AdjustSpace</global>
+    <global>WhiteKnight_Lar_Sw241001Battle_Update</global>
+    <global>WhiteKnight_Lar_Sw241001Battle_Terminate</global>
+    <global>WhiteKnight_Lar_Sw241001Battle_Interupt</global>
+    <global>WhiteKnight_Ax241002Battle_Activate</global>
+    <global>WhiteKnight_Ax241002_Act02</global>
+    <global>WhiteKnight_Ax241002_Act05</global>
+    <global>WhiteKnight_Ax241002_ActAfter_AdjustSpace</global>
+    <global>WhiteKnight_Ax241002Battle_Update</global>
+    <global>WhiteKnight_Ax241002Battle_Terminate</global>
+    <global>WhiteKnight_Ax241002Battle_Interupt</global>
+    <global>WhiteKnight_Spear241003Battle_Activate</global>
+    <global>WhiteKnight_Spear241003_Act03</global>
+    <global>WhiteKnight_Spear241003_Act04</global>
+    <global>WhiteKnight_Spear241003_Act05</global>
+    <global>WhiteKnight_Spear241003_Act06</global>
+    <global>WhiteKnight_Spear241003_Act09</global>
+    <global>WhiteKnight_Spear241003_ActAfter_AdjustSpace</global>
+    <global>WhiteKnight_Spear241003Battle_Update</global>
+    <global>WhiteKnight_Spear241003Battle_Terminate</global>
+    <global>WhiteKnight_Spear241003Battle_Interupt</global>
+    <global>WhiteKnight_Bow241004Battle_Activate</global>
+    <global>WhiteKnight_Bow241004_Act01</global>
+    <global>WhiteKnight_Bow241004_Act02</global>
+    <global>WhiteKnight_Bow241004_Act04</global>
+    <global>WhiteKnight_Bow241004_Act05</global>
+    <global>WhiteKnight_Bow241004_Act06</global>
+    <global>WhiteKnight_Bow241004_Act07</global>
+    <global>WhiteKnight_Bow241004_Act08</global>
+    <global>WhiteKnight_Bow241004_Act09</global>
+    <global>WhiteKnight_Bow241004_Act10</global>
+    <global>WhiteKnight_Bow241004_ActAfter_AdjustSpace</global>
+    <global>WhiteKnight_Bow241004Battle_Update</global>
+    <global>WhiteKnight_Bow241004Battle_Terminate</global>
+    <global>WhiteKnight_Bow241004Battle_Interupt</global>
   </globals>
 </luagnl>

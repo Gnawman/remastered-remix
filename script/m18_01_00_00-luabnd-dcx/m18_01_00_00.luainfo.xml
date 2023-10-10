@@ -104,5 +104,30 @@
       <battleinterrupt>True</battleinterrupt>
       <logicinterrupt>False</logicinterrupt>
     </goal>
+    <goal id="241000">
+      <name>WhiteKnight_Sword241000Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="241001">
+      <name>WhiteKnight_Lar_Sw241001Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="241002">
+      <name>WhiteKnight_Ax241002Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="241003">
+      <name>WhiteKnight_Spear241003Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
+    <goal id="241004">
+      <name>WhiteKnight_Bow241004Battle</name>
+      <battleinterrupt>True</battleinterrupt>
+      <logicinterrupt>False</logicinterrupt>
+    </goal>
   </goals>
 </luainfo>

@@ -21,6 +21,30 @@
     </file>
     <file>
       <flags>Flag1</flags>
+      <id>1084</id>
+      <path>ai\out\bin\241000_battle.lua</path>
+    </file>
+    <file>
+      <flags>Flag1</flags>
+      <id>1085</id>
+      <path>ai\out\bin\241001_battle.lua</path>
+    </file>
+    <file>
+      <flags>Flag1</flags>
+      <id>1086</id>
+      <path>ai\out\bin\241002_battle.lua</path>
+    </file>
+    <file>
+      <flags>Flag1</flags>
+      <id>1087</id>
+      <path>ai\out\bin\241003_battle.lua</path>
+    </file>
+    <file>
+      <flags>Flag1</flags>
+      <id>1093</id>
+      <path>ai\out\bin\241004_battle.lua</path>
+    <file>
+      <flags>Flag1</flags>
       <id>1049</id>
       <path>ai\out\bin\250000_battle.lua</path>
     </file>
@@ -108,6 +132,7 @@
       <flags>Flag1</flags>
       <id>1000001</id>
       <path>m18_01_00_00.luainfo</path>
+    </file>
     </file>
   </files>
 </bnd3>
