@@ -43,6 +43,7 @@
       <flags>Flag1</flags>
       <id>1093</id>
       <path>ai\out\bin\241004_battle.lua</path>
+    </file>
     <file>
       <flags>Flag1</flags>
       <id>1049</id>
@@ -132,7 +133,6 @@
       <flags>Flag1</flags>
       <id>1000001</id>
       <path>m18_01_00_00.luainfo</path>
-    </file>
     </file>
   </files>
 </bnd3>
