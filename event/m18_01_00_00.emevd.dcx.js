@@ -15,9 +15,9 @@ $Event(0, Default, function() {
     ActivateHit(1813121, Disabled);
     SetEventFlag(11810315, OFF);
     SetEventFlag(11810112, OFF);
-    SetObjactState(1811100, -1, Disabled);
-    SetObjactState(1811101, -1, Disabled);
-    SetObjactState(1811102, -1, Disabled);
+//    SetObjactState(1811100, -1, Disabled);
+//    SetObjactState(1811101, -1, Disabled);
+//    SetObjactState(1811102, -1, Disabled);
     if (PlayerInMap(18, 1)) {
         if (!EventFlag(11810002)) {
             PlayCutsceneAndWarpPlayer(180101, CutscenePlayMode.SkippableWithFadeOut, 1812011, 18, 1, 10000);
