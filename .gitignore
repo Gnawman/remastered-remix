@@ -1,2 +1,4 @@
 *.prev
 *.bak
+/temp
+
